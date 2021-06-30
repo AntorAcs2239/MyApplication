@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Number Game</string>
+    <string name="primarytime">30s</string>
+    <string name="primarycal">5+10</string>
+    <string name="score">Score</string>
+    <string name="primaryoption">15</string>
+    <string name="primaryplay">Play</string>
+</resources>
